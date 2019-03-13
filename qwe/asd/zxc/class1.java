@@ -9,7 +9,8 @@ import java.nio.file.Paths;//ujjgh
 public class FileTest {
 
     public static void main(String[] args) {
-        ahahahhahhahahhahahah;lskdjfskdjflsdkjflksdjflskdjflksdjflksjflksdjflksdjlfkjsdlf
+        ahahahhahhahahhahahah;lskdjfskdjflsdkjflksdjflskdjflksdjflksjflksdjflksdjlfkjsdlf\
+            dsfklsaldfjlskjdflksdjfklsdjflksjf
         if (you == readThis) {
             chmokistriptokokki++;
         }
