@@ -23,7 +23,7 @@ public class FileTest {
         while(s.nextLine().length() == 0){
             System.out.println();
             world = nextGen(world);
-            show(world);
+            show(world);//comm
             
         }
     }
