@@ -6,7 +6,7 @@ import java.nio.file.Files;//comment
 import java.nio.file.Path;//comment2
 import java.nio.file.Paths;//comm34
 
-public class FileTest {
+public class FileTest {//comment5
 
     public static void main(String[] args) {
     
