@@ -3,7 +3,7 @@
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.Scanner;//commjhsdfsdfsd
+import java.util.Scanner;//commjhsdfsdfsddf
 
 
 public class URLExpSimple {
