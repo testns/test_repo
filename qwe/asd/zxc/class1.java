@@ -4,7 +4,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Files;//comment
 import java.nio.file.Path;//comment2
-import java.nio.file.Paths;//comm34
+import java.nio.file.Paths;//comm345
 
 public class FileTest {//comment56
 
