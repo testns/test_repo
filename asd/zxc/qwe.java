@@ -8,6 +8,6 @@ public class ReverseNumber {
             int digit = num % 10;
             reversed = reversed * 10 + digit;
 
-        System.out.println("Reversed Number: " + reversed);
+        System.out.println("Reversed Number: " + reversed);//df
     }
 }
