@@ -7,7 +7,7 @@ public class ReverseNumber {
         while(num != 0) {
             int digit = num % 10;
             reversed = reversed * 10 + digit;
-            num /= 10;
+            num /= 10;//ssdfdsf
             
         while(num != 0) {
             int digit = num % 10;
